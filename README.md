@@ -42,9 +42,10 @@ git clone https://github.com/Flipadelphia-90/WellPermits
 cd wellpermits
 
 2. Create and activate a virtual environment(Windows):
-python -m venv venv
+   
+    python -m venv venv
 
-.\venv\Scripts\activate  
+   .\venv\Scripts\activate  
 
 4. Install required packages:
 pip install -r requirements.txt
