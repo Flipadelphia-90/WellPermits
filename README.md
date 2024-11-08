@@ -2,8 +2,7 @@
 
 An interactive web application for visualizing and managing Colorado well permit data. This application provides a user-friendly interface to view well permits on a map and includes functionality to synchronize with the official Colorado state database.
 
-![Colorado Well Permits Map](placeholder-for-map-screenshot.png)
-
+![img.png](img.png)
 ## Description
 
 The Colorado Well Permits Map Application is a full-stack web application that offers:
@@ -25,7 +24,7 @@ The Colorado Well Permits Map Application is a full-stack web application that o
 
 ## Requirements
 
-- Python 3.12
+- Python 3.11
 - PostgreSQL 16+ with PostGIS extension
 - Required Python packages:
   - FastAPI
