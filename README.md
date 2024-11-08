@@ -43,12 +43,13 @@ cd wellpermits
 
 2. Create and activate a virtual environment(Windows):
 python -m venv venv
+
 .\venv\Scripts\activate  
 
-3. Install required packages:
+4. Install required packages:
 pip install -r requirements.txt
 
-4. Set up PostgreSQL database:
+5. Set up PostgreSQL database:
    - Install PostgreSQL(16)+ and PostGIS extension
    - Create a new database
    - Enable PostGIS extension for the database:
